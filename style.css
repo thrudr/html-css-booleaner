@@ -1,4 +1,10 @@
 .background-header {
         background-color: rgb(126, 201, 239);
-        height: 100px;
+        height: 90px;
+}
+
+.logo {
+    width: 180px;
+    margin-top: 30px;
+    margin-left: 20px;
 }
