@@ -37,3 +37,10 @@ th{
 .color-table {
     background-color:rgba(136, 192, 219, 0.362);
 }
+
+.div-2{
+    background-color: rgb(59, 59, 160);
+    height: 50px;
+    color: white;
+    text-align: center;
+}
