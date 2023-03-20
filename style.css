@@ -44,3 +44,7 @@ th{
     color: white;
     text-align: center;
 }
+
+#text-padding {
+    padding-top: 15px;
+}
